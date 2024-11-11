@@ -2,7 +2,7 @@
 
 Este projeto realiza uma análise detalhada dos dados de vendas da empresa Contoso, utilizando dados sobre transações de vendas, clientes, produtos, lojas e promoções. O objetivo principal é extrair insights relevantes para a otimização das operações e estratégias de marketing da empresa. A seguir, estão descritas as principais análises realizadas, com os resultados obtidos.
 
-![CLIQUE AQUI PARA TER ACESSO A BASE DE DADOS](https://drive.google.com/drive/folders/1kt5xji8hdRwUyIvoN-vcRo88usfEWCga?usp=sharing)
+[CLIQUE AQUI PARA TER ACESSO A BASE DE DADOS](https://drive.google.com/drive/folders/1kt5xji8hdRwUyIvoN-vcRo88usfEWCga?usp=sharing)
 
 ## 1. Análise da Receita ao Longo do Tempo
 
