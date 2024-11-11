@@ -6,37 +6,37 @@ Este projeto realiza uma análise detalhada dos dados de vendas da empresa Conto
 
 Nesta análise, buscamos entender a evolução da receita ao longo do tempo, considerando o ano e o mês das transações. Através desta análise, é possível identificar padrões sazonais, meses de pico de vendas e períodos de baixa, oferecendo insights valiosos para campanhas e planejamento.
 
-![screenshot1](https://github.com/samuelsbo/Analise-de-Vendas-Projeto-Contoso-Python/blob/main/Graficos/Receita_Longo_Tempo.png)
+![Gráfico de Receita ao Longo do Tempo](https://github.com/samuelsbo/Analise-de-Vendas-Projeto-Contoso-Python/blob/main/Graficos/Receita_Longo_Tempo.png)
 
 ## 2. Análise de Receita por Marca
 
 A análise de receita por marca permite entender quais marcas estão gerando mais receita e qual a sua contribuição relativa para o desempenho geral das vendas. Este tipo de análise é útil para direcionar estratégias de marketing e gestão de estoque, além de identificar oportunidades para aumentar a venda de marcas com menor desempenho.
 
-![Gráfico de Receita por Marca](#)  <!-- Substitua o link pela imagem gerada -->
+![Gráfico de Receita por Marca](https://github.com/samuelsbo/Analise-de-Vendas-Projeto-Contoso-Python/blob/main/Graficos/Receita_por_Marca.png)
 
 ## 3. Análise de Receita por País
 
 Com esta análise, podemos avaliar o desempenho das vendas em diferentes países. A análise geográfica permite identificar quais regiões estão gerando mais receita, possibilitando decisões estratégicas sobre expansão ou melhorias no atendimento em países com vendas mais baixas.
 
-![Gráfico de Receita por País](#)  <!-- Substitua o link pela imagem gerada -->
+![Gráfico de Receita por País](https://github.com/samuelsbo/Analise-de-Vendas-Projeto-Contoso-Python/blob/main/Graficos/TOP5_Paises_por_Receita.png)
 
 ## 4. Análise das Top 5 Lojas em Receita
 
 A análise das lojas que mais geram receita é importante para identificar os pontos de venda de maior sucesso. Essa análise ajuda a compreender os fatores que contribuem para o sucesso dessas lojas, como localização, produto ou perfil de cliente, e pode ser usada para replicar boas práticas em outras lojas.
 
-![Gráfico Top 5 Lojas em Receita](#)  <!-- Substitua o link pela imagem gerada -->
+![Gráfico Top 5 Lojas em Receita](https://github.com/samuelsbo/Analise-de-Vendas-Projeto-Contoso-Python/blob/main/Graficos/TOP5_Lojas_por_Receita.png)
 
 ## 5. Análise de Produtos Acima da Média em Receita
 
 Nesta análise, focamos nos produtos que geram receita superior à média. Identificar os produtos de maior sucesso é fundamental para entender as preferências dos clientes e otimizar o portfólio de produtos, direcionando esforços para aumentar as vendas dos itens que já têm bom desempenho.
 
-![Gráfico de Produtos Acima da Média em Receita](#)  <!-- Substitua o link pela imagem gerada -->
+![Gráfico de Produtos Acima da Média em Receita](https://github.com/samuelsbo/Analise-de-Vendas-Projeto-Contoso-Python/blob/main/Graficos/Distribuicao_Produtos_pela_Media.png)
 
 ## 6. Análise de Clientes Acima e Abaixo da Média em Receita
 
 A segmentação de clientes com base na receita gerada permite identificar os clientes mais valiosos (acima da média) e aqueles que têm um desempenho abaixo da média. Com isso, podemos planejar estratégias para aumentar o engajamento e a lealdade dos clientes de baixo desempenho, enquanto mantemos e potencializamos o relacionamento com os clientes de alto desempenho.
 
-![Gráfico de Clientes Acima e Abaixo da Média em Receita](#)  <!-- Substitua o link pela imagem gerada -->
+![Gráfico de Clientes Acima e Abaixo da Média em Receita](https://github.com/samuelsbo/Analise-de-Vendas-Projeto-Contoso-Python/blob/main/Graficos/Distribuicao_Clientes_pela_Media.png)
 
 ## Conclusões
 
