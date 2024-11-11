@@ -6,7 +6,7 @@ Este projeto realiza uma análise detalhada dos dados de vendas da empresa Conto
 
 Nesta análise, buscamos entender a evolução da receita ao longo do tempo, considerando o ano e o mês das transações. Através desta análise, é possível identificar padrões sazonais, meses de pico de vendas e períodos de baixa, oferecendo insights valiosos para campanhas e planejamento.
 
-![Gráfico de Receita ao Longo do Tempo](#)  <!-- Substitua o link pela imagem gerada -->
+![screenshot1](https://github.com/matheuscoradini/Analise-de-acoes-com-Pandas/blob/master/imagens/cotacaotempo.PNG](https://github.com/samuelsbo/Analise-de-Vendas-Projeto-Contoso-Python/blob/main/Graficos/Receita_Longo_Tempo.png)
 
 ## 2. Análise de Receita por Marca
 
